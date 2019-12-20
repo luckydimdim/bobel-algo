@@ -1,0 +1,17 @@
+/Users/dima/algo/exercises/csharp/reversestring/TestReverse/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/dima/algo/exercises/csharp/reversestring/TestReverse/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/dima/algo/exercises/csharp/reversestring/TestReverse/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/dima/algo/exercises/csharp/reversestring/TestReverse/bin/Debug/netcoreapp2.2/TestReverse.deps.json
+/Users/dima/algo/exercises/csharp/reversestring/TestReverse/bin/Debug/netcoreapp2.2/TestReverse.runtimeconfig.json
+/Users/dima/algo/exercises/csharp/reversestring/TestReverse/bin/Debug/netcoreapp2.2/TestReverse.runtimeconfig.dev.json
+/Users/dima/algo/exercises/csharp/reversestring/TestReverse/bin/Debug/netcoreapp2.2/TestReverse.dll
+/Users/dima/algo/exercises/csharp/reversestring/TestReverse/bin/Debug/netcoreapp2.2/TestReverse.pdb
+/Users/dima/algo/exercises/csharp/reversestring/TestReverse/bin/Debug/netcoreapp2.2/reversestring.dll
+/Users/dima/algo/exercises/csharp/reversestring/TestReverse/bin/Debug/netcoreapp2.2/reversestring.pdb
+/Users/dima/algo/exercises/csharp/reversestring/TestReverse/obj/Debug/netcoreapp2.2/TestReverse.csprojAssemblyReference.cache
+/Users/dima/algo/exercises/csharp/reversestring/TestReverse/obj/Debug/netcoreapp2.2/TestReverse.csproj.CoreCompileInputs.cache
+/Users/dima/algo/exercises/csharp/reversestring/TestReverse/obj/Debug/netcoreapp2.2/TestReverse.AssemblyInfoInputs.cache
+/Users/dima/algo/exercises/csharp/reversestring/TestReverse/obj/Debug/netcoreapp2.2/TestReverse.AssemblyInfo.cs
+/Users/dima/algo/exercises/csharp/reversestring/TestReverse/obj/Debug/netcoreapp2.2/TestReverse.csproj.CopyComplete
+/Users/dima/algo/exercises/csharp/reversestring/TestReverse/obj/Debug/netcoreapp2.2/TestReverse.dll
+/Users/dima/algo/exercises/csharp/reversestring/TestReverse/obj/Debug/netcoreapp2.2/TestReverse.pdb

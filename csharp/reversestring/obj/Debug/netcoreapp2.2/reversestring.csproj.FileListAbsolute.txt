@@ -1,0 +1,11 @@
+/Users/dima/algo/exercises/csharp/reversestring/bin/Debug/netcoreapp2.2/reversestring.deps.json
+/Users/dima/algo/exercises/csharp/reversestring/bin/Debug/netcoreapp2.2/reversestring.runtimeconfig.json
+/Users/dima/algo/exercises/csharp/reversestring/bin/Debug/netcoreapp2.2/reversestring.runtimeconfig.dev.json
+/Users/dima/algo/exercises/csharp/reversestring/bin/Debug/netcoreapp2.2/reversestring.dll
+/Users/dima/algo/exercises/csharp/reversestring/bin/Debug/netcoreapp2.2/reversestring.pdb
+/Users/dima/algo/exercises/csharp/reversestring/obj/Debug/netcoreapp2.2/reversestring.csprojAssemblyReference.cache
+/Users/dima/algo/exercises/csharp/reversestring/obj/Debug/netcoreapp2.2/reversestring.csproj.CoreCompileInputs.cache
+/Users/dima/algo/exercises/csharp/reversestring/obj/Debug/netcoreapp2.2/reversestring.AssemblyInfoInputs.cache
+/Users/dima/algo/exercises/csharp/reversestring/obj/Debug/netcoreapp2.2/reversestring.AssemblyInfo.cs
+/Users/dima/algo/exercises/csharp/reversestring/obj/Debug/netcoreapp2.2/reversestring.dll
+/Users/dima/algo/exercises/csharp/reversestring/obj/Debug/netcoreapp2.2/reversestring.pdb

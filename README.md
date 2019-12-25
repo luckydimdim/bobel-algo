@@ -41,6 +41,11 @@ List of tasks
 * validate
 * vowels
 * weave
+* bubble sort
+* insert sort
+* choice sort
+* merge sort
+* quick sort
 
 Credits
 =======

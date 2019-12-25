@@ -1,0 +1,11 @@
+/Users/dima/algo/exercises/csharp/palindrome/bin/Debug/netcoreapp2.2/palindrome.deps.json
+/Users/dima/algo/exercises/csharp/palindrome/bin/Debug/netcoreapp2.2/palindrome.runtimeconfig.json
+/Users/dima/algo/exercises/csharp/palindrome/bin/Debug/netcoreapp2.2/palindrome.runtimeconfig.dev.json
+/Users/dima/algo/exercises/csharp/palindrome/bin/Debug/netcoreapp2.2/palindrome.dll
+/Users/dima/algo/exercises/csharp/palindrome/bin/Debug/netcoreapp2.2/palindrome.pdb
+/Users/dima/algo/exercises/csharp/palindrome/obj/Debug/netcoreapp2.2/palindrome.csprojAssemblyReference.cache
+/Users/dima/algo/exercises/csharp/palindrome/obj/Debug/netcoreapp2.2/palindrome.csproj.CoreCompileInputs.cache
+/Users/dima/algo/exercises/csharp/palindrome/obj/Debug/netcoreapp2.2/palindrome.AssemblyInfoInputs.cache
+/Users/dima/algo/exercises/csharp/palindrome/obj/Debug/netcoreapp2.2/palindrome.AssemblyInfo.cs
+/Users/dima/algo/exercises/csharp/palindrome/obj/Debug/netcoreapp2.2/palindrome.dll
+/Users/dima/algo/exercises/csharp/palindrome/obj/Debug/netcoreapp2.2/palindrome.pdb

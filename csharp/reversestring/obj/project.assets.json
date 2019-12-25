@@ -688,7 +688,8 @@
     ]
   },
   "packageFolders": {
-    "/Users/dima/.nuget/packages/": {}
+    "/Users/dima/.nuget/packages/": {},
+    "/Users/dima/.dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -699,6 +700,9 @@
       "packagesPath": "/Users/dima/.nuget/packages/",
       "outputPath": "/Users/dima/algo/exercises/csharp/reversestring/obj/",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/Users/dima/.dotnet/sdk/NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "/Users/dima/.config/NuGet/NuGet.Config"
       ],

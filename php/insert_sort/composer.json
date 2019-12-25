@@ -1,0 +1,19 @@
+{
+    "name": "bobel/insert_sort",
+    "authors": [
+        {
+            "name": "Dmitriy Litovchenko",
+            "email": "msk.roytop@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    },
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.5"
+    }
+}

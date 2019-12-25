@@ -6,6 +6,9 @@
     "projectPath": "/Users/dima/algo/exercises/csharp/reversestring/reversestring.csproj",
     "outputPath": "/Users/dima/algo/exercises/csharp/reversestring/obj/",
     "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/Users/dima/.dotnet/sdk/NuGetFallbackFolder"
+    ],
     "originalTargetFrameworks": [
       "netcoreapp2.2"
     ],

@@ -1,0 +1,14 @@
+/Users/dima/algo/exercises/csharp/reverseint/bin/Debug/netcoreapp2.2/reverseint.deps.json
+/Users/dima/algo/exercises/csharp/reverseint/bin/Debug/netcoreapp2.2/reverseint.runtimeconfig.json
+/Users/dima/algo/exercises/csharp/reverseint/bin/Debug/netcoreapp2.2/reverseint.runtimeconfig.dev.json
+/Users/dima/algo/exercises/csharp/reverseint/bin/Debug/netcoreapp2.2/reverseint.dll
+/Users/dima/algo/exercises/csharp/reverseint/bin/Debug/netcoreapp2.2/reverseint.pdb
+/Users/dima/algo/exercises/csharp/reverseint/obj/Debug/netcoreapp2.2/reverseint.csprojAssemblyReference.cache
+/Users/dima/algo/exercises/csharp/reverseint/obj/Debug/netcoreapp2.2/reverseint.csproj.CoreCompileInputs.cache
+/Users/dima/algo/exercises/csharp/reverseint/obj/Debug/netcoreapp2.2/reverseint.AssemblyInfoInputs.cache
+/Users/dima/algo/exercises/csharp/reverseint/obj/Debug/netcoreapp2.2/reverseint.AssemblyInfo.cs
+/Users/dima/algo/exercises/csharp/reverseint/obj/Debug/netcoreapp2.2/reverseint.dll
+/Users/dima/algo/exercises/csharp/reverseint/obj/Debug/netcoreapp2.2/reverseint.pdb
+/Users/dima/algo/exercises/csharp/reverseint/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/dima/algo/exercises/csharp/reverseint/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/dima/algo/exercises/csharp/reverseint/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll

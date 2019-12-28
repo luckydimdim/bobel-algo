@@ -29,3 +29,5 @@ def reverse(str):
 		result = char + result
 
 	return result
+
+print(reverse('dima'))

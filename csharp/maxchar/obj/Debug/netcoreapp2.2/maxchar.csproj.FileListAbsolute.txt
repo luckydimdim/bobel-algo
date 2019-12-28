@@ -1,0 +1,14 @@
+/Users/dima/algo/exercises/csharp/maxchar/obj/Debug/netcoreapp2.2/maxchar.csprojAssemblyReference.cache
+/Users/dima/algo/exercises/csharp/maxchar/obj/Debug/netcoreapp2.2/maxchar.csproj.CoreCompileInputs.cache
+/Users/dima/algo/exercises/csharp/maxchar/obj/Debug/netcoreapp2.2/maxchar.AssemblyInfoInputs.cache
+/Users/dima/algo/exercises/csharp/maxchar/obj/Debug/netcoreapp2.2/maxchar.AssemblyInfo.cs
+/Users/dima/algo/exercises/csharp/maxchar/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/dima/algo/exercises/csharp/maxchar/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/dima/algo/exercises/csharp/maxchar/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/dima/algo/exercises/csharp/maxchar/bin/Debug/netcoreapp2.2/maxchar.deps.json
+/Users/dima/algo/exercises/csharp/maxchar/bin/Debug/netcoreapp2.2/maxchar.runtimeconfig.json
+/Users/dima/algo/exercises/csharp/maxchar/bin/Debug/netcoreapp2.2/maxchar.runtimeconfig.dev.json
+/Users/dima/algo/exercises/csharp/maxchar/bin/Debug/netcoreapp2.2/maxchar.dll
+/Users/dima/algo/exercises/csharp/maxchar/bin/Debug/netcoreapp2.2/maxchar.pdb
+/Users/dima/algo/exercises/csharp/maxchar/obj/Debug/netcoreapp2.2/maxchar.dll
+/Users/dima/algo/exercises/csharp/maxchar/obj/Debug/netcoreapp2.2/maxchar.pdb

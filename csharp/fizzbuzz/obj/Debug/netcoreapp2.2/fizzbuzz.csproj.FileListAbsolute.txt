@@ -1,0 +1,14 @@
+/Users/dima/algo/exercises/csharp/fizzbuzz/obj/Debug/netcoreapp2.2/fizzbuzz.csprojAssemblyReference.cache
+/Users/dima/algo/exercises/csharp/fizzbuzz/obj/Debug/netcoreapp2.2/fizzbuzz.csproj.CoreCompileInputs.cache
+/Users/dima/algo/exercises/csharp/fizzbuzz/obj/Debug/netcoreapp2.2/fizzbuzz.AssemblyInfoInputs.cache
+/Users/dima/algo/exercises/csharp/fizzbuzz/obj/Debug/netcoreapp2.2/fizzbuzz.AssemblyInfo.cs
+/Users/dima/algo/exercises/csharp/fizzbuzz/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/dima/algo/exercises/csharp/fizzbuzz/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/dima/algo/exercises/csharp/fizzbuzz/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/dima/algo/exercises/csharp/fizzbuzz/bin/Debug/netcoreapp2.2/fizzbuzz.deps.json
+/Users/dima/algo/exercises/csharp/fizzbuzz/bin/Debug/netcoreapp2.2/fizzbuzz.runtimeconfig.json
+/Users/dima/algo/exercises/csharp/fizzbuzz/bin/Debug/netcoreapp2.2/fizzbuzz.runtimeconfig.dev.json
+/Users/dima/algo/exercises/csharp/fizzbuzz/bin/Debug/netcoreapp2.2/fizzbuzz.dll
+/Users/dima/algo/exercises/csharp/fizzbuzz/bin/Debug/netcoreapp2.2/fizzbuzz.pdb
+/Users/dima/algo/exercises/csharp/fizzbuzz/obj/Debug/netcoreapp2.2/fizzbuzz.dll
+/Users/dima/algo/exercises/csharp/fizzbuzz/obj/Debug/netcoreapp2.2/fizzbuzz.pdb

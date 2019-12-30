@@ -1,0 +1,14 @@
+/Users/dima/algo/exercises/csharp/chunk/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/dima/algo/exercises/csharp/chunk/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/dima/algo/exercises/csharp/chunk/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/dima/algo/exercises/csharp/chunk/bin/Debug/netcoreapp2.2/chunk.deps.json
+/Users/dima/algo/exercises/csharp/chunk/bin/Debug/netcoreapp2.2/chunk.runtimeconfig.json
+/Users/dima/algo/exercises/csharp/chunk/bin/Debug/netcoreapp2.2/chunk.runtimeconfig.dev.json
+/Users/dima/algo/exercises/csharp/chunk/bin/Debug/netcoreapp2.2/chunk.dll
+/Users/dima/algo/exercises/csharp/chunk/bin/Debug/netcoreapp2.2/chunk.pdb
+/Users/dima/algo/exercises/csharp/chunk/obj/Debug/netcoreapp2.2/chunk.csprojAssemblyReference.cache
+/Users/dima/algo/exercises/csharp/chunk/obj/Debug/netcoreapp2.2/chunk.csproj.CoreCompileInputs.cache
+/Users/dima/algo/exercises/csharp/chunk/obj/Debug/netcoreapp2.2/chunk.AssemblyInfoInputs.cache
+/Users/dima/algo/exercises/csharp/chunk/obj/Debug/netcoreapp2.2/chunk.AssemblyInfo.cs
+/Users/dima/algo/exercises/csharp/chunk/obj/Debug/netcoreapp2.2/chunk.dll
+/Users/dima/algo/exercises/csharp/chunk/obj/Debug/netcoreapp2.2/chunk.pdb

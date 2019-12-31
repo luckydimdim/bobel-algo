@@ -1,0 +1,13 @@
+suites:
+    unit:
+        path: .
+
+settings:
+    shuffle: true
+    lint: true
+paths:
+    tests: ./
+    output: .//_output
+    support: .//_support
+    data: ./
+     

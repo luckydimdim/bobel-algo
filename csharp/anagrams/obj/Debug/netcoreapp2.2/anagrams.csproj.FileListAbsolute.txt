@@ -1,0 +1,14 @@
+/Users/dima/algo/exercises/csharp/anagrams/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/dima/algo/exercises/csharp/anagrams/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/dima/algo/exercises/csharp/anagrams/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/dima/algo/exercises/csharp/anagrams/bin/Debug/netcoreapp2.2/anagrams.deps.json
+/Users/dima/algo/exercises/csharp/anagrams/bin/Debug/netcoreapp2.2/anagrams.runtimeconfig.json
+/Users/dima/algo/exercises/csharp/anagrams/bin/Debug/netcoreapp2.2/anagrams.runtimeconfig.dev.json
+/Users/dima/algo/exercises/csharp/anagrams/bin/Debug/netcoreapp2.2/anagrams.dll
+/Users/dima/algo/exercises/csharp/anagrams/bin/Debug/netcoreapp2.2/anagrams.pdb
+/Users/dima/algo/exercises/csharp/anagrams/obj/Debug/netcoreapp2.2/anagrams.csprojAssemblyReference.cache
+/Users/dima/algo/exercises/csharp/anagrams/obj/Debug/netcoreapp2.2/anagrams.csproj.CoreCompileInputs.cache
+/Users/dima/algo/exercises/csharp/anagrams/obj/Debug/netcoreapp2.2/anagrams.AssemblyInfoInputs.cache
+/Users/dima/algo/exercises/csharp/anagrams/obj/Debug/netcoreapp2.2/anagrams.AssemblyInfo.cs
+/Users/dima/algo/exercises/csharp/anagrams/obj/Debug/netcoreapp2.2/anagrams.dll
+/Users/dima/algo/exercises/csharp/anagrams/obj/Debug/netcoreapp2.2/anagrams.pdb

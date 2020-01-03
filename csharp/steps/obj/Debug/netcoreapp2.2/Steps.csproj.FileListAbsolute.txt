@@ -1,0 +1,14 @@
+/Users/dima/algo/exercises/csharp/steps/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/dima/algo/exercises/csharp/steps/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/dima/algo/exercises/csharp/steps/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/dima/algo/exercises/csharp/steps/bin/Debug/netcoreapp2.2/Steps.deps.json
+/Users/dima/algo/exercises/csharp/steps/bin/Debug/netcoreapp2.2/Steps.runtimeconfig.json
+/Users/dima/algo/exercises/csharp/steps/bin/Debug/netcoreapp2.2/Steps.runtimeconfig.dev.json
+/Users/dima/algo/exercises/csharp/steps/bin/Debug/netcoreapp2.2/Steps.dll
+/Users/dima/algo/exercises/csharp/steps/bin/Debug/netcoreapp2.2/Steps.pdb
+/Users/dima/algo/exercises/csharp/steps/obj/Debug/netcoreapp2.2/Steps.csprojAssemblyReference.cache
+/Users/dima/algo/exercises/csharp/steps/obj/Debug/netcoreapp2.2/Steps.csproj.CoreCompileInputs.cache
+/Users/dima/algo/exercises/csharp/steps/obj/Debug/netcoreapp2.2/Steps.AssemblyInfoInputs.cache
+/Users/dima/algo/exercises/csharp/steps/obj/Debug/netcoreapp2.2/Steps.AssemblyInfo.cs
+/Users/dima/algo/exercises/csharp/steps/obj/Debug/netcoreapp2.2/Steps.dll
+/Users/dima/algo/exercises/csharp/steps/obj/Debug/netcoreapp2.2/Steps.pdb

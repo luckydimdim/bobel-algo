@@ -1,0 +1,14 @@
+/Users/dima/algo/exercises/csharp/capitalize/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/dima/algo/exercises/csharp/capitalize/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/dima/algo/exercises/csharp/capitalize/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/dima/algo/exercises/csharp/capitalize/bin/Debug/netcoreapp2.2/Capitalize.deps.json
+/Users/dima/algo/exercises/csharp/capitalize/bin/Debug/netcoreapp2.2/Capitalize.runtimeconfig.json
+/Users/dima/algo/exercises/csharp/capitalize/bin/Debug/netcoreapp2.2/Capitalize.runtimeconfig.dev.json
+/Users/dima/algo/exercises/csharp/capitalize/bin/Debug/netcoreapp2.2/Capitalize.dll
+/Users/dima/algo/exercises/csharp/capitalize/bin/Debug/netcoreapp2.2/Capitalize.pdb
+/Users/dima/algo/exercises/csharp/capitalize/obj/Debug/netcoreapp2.2/Capitalize.csprojAssemblyReference.cache
+/Users/dima/algo/exercises/csharp/capitalize/obj/Debug/netcoreapp2.2/Capitalize.csproj.CoreCompileInputs.cache
+/Users/dima/algo/exercises/csharp/capitalize/obj/Debug/netcoreapp2.2/Capitalize.AssemblyInfoInputs.cache
+/Users/dima/algo/exercises/csharp/capitalize/obj/Debug/netcoreapp2.2/Capitalize.AssemblyInfo.cs
+/Users/dima/algo/exercises/csharp/capitalize/obj/Debug/netcoreapp2.2/Capitalize.dll
+/Users/dima/algo/exercises/csharp/capitalize/obj/Debug/netcoreapp2.2/Capitalize.pdb

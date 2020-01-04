@@ -1,0 +1,23 @@
+{
+    "name": "bobel/pyramid",
+    "authors": [
+        {
+            "name": "Dmitriy Litovchenko",
+            "email": "msk.roytop@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "nunomaduro/pest": "^0.1.0",
+        "symplify/easy-coding-standard": "^7.1"
+    },
+    "scripts": {
+    	"test": "vendor/bin/pest",
+    	"ecs": "ecs check ./ --ansi --config vendor/symplify/easy-coding-standard/config/set/clean-code.yaml"
+    },
+    "autoload": {
+    	"files": [
+    		"./index.php"
+    	]
+    }
+}

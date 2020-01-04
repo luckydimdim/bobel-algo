@@ -1,0 +1,14 @@
+/Users/dima/algo/exercises/csharp/pyramid/obj/Debug/netcoreapp2.2/Pyramid.csprojAssemblyReference.cache
+/Users/dima/algo/exercises/csharp/pyramid/obj/Debug/netcoreapp2.2/Pyramid.csproj.CoreCompileInputs.cache
+/Users/dima/algo/exercises/csharp/pyramid/obj/Debug/netcoreapp2.2/Pyramid.AssemblyInfoInputs.cache
+/Users/dima/algo/exercises/csharp/pyramid/obj/Debug/netcoreapp2.2/Pyramid.AssemblyInfo.cs
+/Users/dima/algo/exercises/csharp/pyramid/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/dima/algo/exercises/csharp/pyramid/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/dima/algo/exercises/csharp/pyramid/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/dima/algo/exercises/csharp/pyramid/bin/Debug/netcoreapp2.2/Pyramid.deps.json
+/Users/dima/algo/exercises/csharp/pyramid/bin/Debug/netcoreapp2.2/Pyramid.runtimeconfig.json
+/Users/dima/algo/exercises/csharp/pyramid/bin/Debug/netcoreapp2.2/Pyramid.runtimeconfig.dev.json
+/Users/dima/algo/exercises/csharp/pyramid/bin/Debug/netcoreapp2.2/Pyramid.dll
+/Users/dima/algo/exercises/csharp/pyramid/bin/Debug/netcoreapp2.2/Pyramid.pdb
+/Users/dima/algo/exercises/csharp/pyramid/obj/Debug/netcoreapp2.2/Pyramid.dll
+/Users/dima/algo/exercises/csharp/pyramid/obj/Debug/netcoreapp2.2/Pyramid.pdb

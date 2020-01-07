@@ -1,0 +1,14 @@
+/Users/dima/algo/exercises/csharp/vowels/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/dima/algo/exercises/csharp/vowels/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/dima/algo/exercises/csharp/vowels/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/dima/algo/exercises/csharp/vowels/bin/Debug/netcoreapp2.2/Vowels.deps.json
+/Users/dima/algo/exercises/csharp/vowels/bin/Debug/netcoreapp2.2/Vowels.runtimeconfig.json
+/Users/dima/algo/exercises/csharp/vowels/bin/Debug/netcoreapp2.2/Vowels.runtimeconfig.dev.json
+/Users/dima/algo/exercises/csharp/vowels/bin/Debug/netcoreapp2.2/Vowels.dll
+/Users/dima/algo/exercises/csharp/vowels/bin/Debug/netcoreapp2.2/Vowels.pdb
+/Users/dima/algo/exercises/csharp/vowels/obj/Debug/netcoreapp2.2/Vowels.csprojAssemblyReference.cache
+/Users/dima/algo/exercises/csharp/vowels/obj/Debug/netcoreapp2.2/Vowels.csproj.CoreCompileInputs.cache
+/Users/dima/algo/exercises/csharp/vowels/obj/Debug/netcoreapp2.2/Vowels.AssemblyInfoInputs.cache
+/Users/dima/algo/exercises/csharp/vowels/obj/Debug/netcoreapp2.2/Vowels.AssemblyInfo.cs
+/Users/dima/algo/exercises/csharp/vowels/obj/Debug/netcoreapp2.2/Vowels.dll
+/Users/dima/algo/exercises/csharp/vowels/obj/Debug/netcoreapp2.2/Vowels.pdb

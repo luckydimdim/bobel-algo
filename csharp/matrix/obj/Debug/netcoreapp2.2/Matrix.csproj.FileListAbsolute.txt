@@ -1,0 +1,14 @@
+/Users/dima/algo/exercises/csharp/matrix/obj/Debug/netcoreapp2.2/Matrix.csprojAssemblyReference.cache
+/Users/dima/algo/exercises/csharp/matrix/obj/Debug/netcoreapp2.2/Matrix.csproj.CoreCompileInputs.cache
+/Users/dima/algo/exercises/csharp/matrix/obj/Debug/netcoreapp2.2/Matrix.AssemblyInfoInputs.cache
+/Users/dima/algo/exercises/csharp/matrix/obj/Debug/netcoreapp2.2/Matrix.AssemblyInfo.cs
+/Users/dima/algo/exercises/csharp/matrix/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/dima/algo/exercises/csharp/matrix/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/dima/algo/exercises/csharp/matrix/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/dima/algo/exercises/csharp/matrix/bin/Debug/netcoreapp2.2/Matrix.deps.json
+/Users/dima/algo/exercises/csharp/matrix/bin/Debug/netcoreapp2.2/Matrix.runtimeconfig.json
+/Users/dima/algo/exercises/csharp/matrix/bin/Debug/netcoreapp2.2/Matrix.runtimeconfig.dev.json
+/Users/dima/algo/exercises/csharp/matrix/bin/Debug/netcoreapp2.2/Matrix.dll
+/Users/dima/algo/exercises/csharp/matrix/bin/Debug/netcoreapp2.2/Matrix.pdb
+/Users/dima/algo/exercises/csharp/matrix/obj/Debug/netcoreapp2.2/Matrix.dll
+/Users/dima/algo/exercises/csharp/matrix/obj/Debug/netcoreapp2.2/Matrix.pdb

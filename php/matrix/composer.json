@@ -1,0 +1,21 @@
+{
+    "name": "bobel/matrix",
+    "authors": [
+        {
+            "name": "Dmitriy Litovchenko",
+            "email": "msk.roytop@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "nunomaduro/pest": "^0.1.0"
+    },
+    "autoload": {
+        "files": [
+            "./index.php"
+        ]
+    },
+    "scripts": {
+        "test": "vendor/bin/pest"
+    }
+}

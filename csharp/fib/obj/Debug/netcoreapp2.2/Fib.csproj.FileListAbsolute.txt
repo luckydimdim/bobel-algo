@@ -1,0 +1,14 @@
+/Users/dima/algo/exercises/csharp/fib/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/dima/algo/exercises/csharp/fib/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/dima/algo/exercises/csharp/fib/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/dima/algo/exercises/csharp/fib/bin/Debug/netcoreapp2.2/Fib.deps.json
+/Users/dima/algo/exercises/csharp/fib/bin/Debug/netcoreapp2.2/Fib.runtimeconfig.json
+/Users/dima/algo/exercises/csharp/fib/bin/Debug/netcoreapp2.2/Fib.runtimeconfig.dev.json
+/Users/dima/algo/exercises/csharp/fib/bin/Debug/netcoreapp2.2/Fib.dll
+/Users/dima/algo/exercises/csharp/fib/bin/Debug/netcoreapp2.2/Fib.pdb
+/Users/dima/algo/exercises/csharp/fib/obj/Debug/netcoreapp2.2/Fib.csprojAssemblyReference.cache
+/Users/dima/algo/exercises/csharp/fib/obj/Debug/netcoreapp2.2/Fib.csproj.CoreCompileInputs.cache
+/Users/dima/algo/exercises/csharp/fib/obj/Debug/netcoreapp2.2/Fib.AssemblyInfoInputs.cache
+/Users/dima/algo/exercises/csharp/fib/obj/Debug/netcoreapp2.2/Fib.AssemblyInfo.cs
+/Users/dima/algo/exercises/csharp/fib/obj/Debug/netcoreapp2.2/Fib.dll
+/Users/dima/algo/exercises/csharp/fib/obj/Debug/netcoreapp2.2/Fib.pdb

@@ -1,0 +1,14 @@
+/Users/dima/algo/exercises/csharp/queue/obj/Debug/netcoreapp2.2/Queue.csprojAssemblyReference.cache
+/Users/dima/algo/exercises/csharp/queue/obj/Debug/netcoreapp2.2/Queue.csproj.CoreCompileInputs.cache
+/Users/dima/algo/exercises/csharp/queue/obj/Debug/netcoreapp2.2/Queue.AssemblyInfoInputs.cache
+/Users/dima/algo/exercises/csharp/queue/obj/Debug/netcoreapp2.2/Queue.AssemblyInfo.cs
+/Users/dima/algo/exercises/csharp/queue/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/dima/algo/exercises/csharp/queue/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/dima/algo/exercises/csharp/queue/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/dima/algo/exercises/csharp/queue/bin/Debug/netcoreapp2.2/Queue.deps.json
+/Users/dima/algo/exercises/csharp/queue/bin/Debug/netcoreapp2.2/Queue.runtimeconfig.json
+/Users/dima/algo/exercises/csharp/queue/bin/Debug/netcoreapp2.2/Queue.runtimeconfig.dev.json
+/Users/dima/algo/exercises/csharp/queue/bin/Debug/netcoreapp2.2/Queue.dll
+/Users/dima/algo/exercises/csharp/queue/bin/Debug/netcoreapp2.2/Queue.pdb
+/Users/dima/algo/exercises/csharp/queue/obj/Debug/netcoreapp2.2/Queue.dll
+/Users/dima/algo/exercises/csharp/queue/obj/Debug/netcoreapp2.2/Queue.pdb

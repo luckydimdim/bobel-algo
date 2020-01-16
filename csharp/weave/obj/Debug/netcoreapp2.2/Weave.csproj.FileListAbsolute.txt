@@ -1,0 +1,14 @@
+/Users/dima/algo/exercises/csharp/weave/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/dima/algo/exercises/csharp/weave/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/dima/algo/exercises/csharp/weave/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/dima/algo/exercises/csharp/weave/bin/Debug/netcoreapp2.2/Weave.deps.json
+/Users/dima/algo/exercises/csharp/weave/bin/Debug/netcoreapp2.2/Weave.runtimeconfig.json
+/Users/dima/algo/exercises/csharp/weave/bin/Debug/netcoreapp2.2/Weave.runtimeconfig.dev.json
+/Users/dima/algo/exercises/csharp/weave/bin/Debug/netcoreapp2.2/Weave.dll
+/Users/dima/algo/exercises/csharp/weave/bin/Debug/netcoreapp2.2/Weave.pdb
+/Users/dima/algo/exercises/csharp/weave/obj/Debug/netcoreapp2.2/Weave.csprojAssemblyReference.cache
+/Users/dima/algo/exercises/csharp/weave/obj/Debug/netcoreapp2.2/Weave.csproj.CoreCompileInputs.cache
+/Users/dima/algo/exercises/csharp/weave/obj/Debug/netcoreapp2.2/Weave.AssemblyInfoInputs.cache
+/Users/dima/algo/exercises/csharp/weave/obj/Debug/netcoreapp2.2/Weave.AssemblyInfo.cs
+/Users/dima/algo/exercises/csharp/weave/obj/Debug/netcoreapp2.2/Weave.dll
+/Users/dima/algo/exercises/csharp/weave/obj/Debug/netcoreapp2.2/Weave.pdb

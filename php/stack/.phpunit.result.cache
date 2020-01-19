@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":324:{a:2:{s:7:"defects";a:2:{s:56:"/Users/dima/algo/exercises/php/stack/tests/index.php::It";i:4;s:58:"/Users/dima/algo/exercises/php/stack/tests/index.php::Test";i:4;}s:5:"times";a:2:{s:56:"/Users/dima/algo/exercises/php/stack/tests/index.php::It";d:0.003;s:58:"/Users/dima/algo/exercises/php/stack/tests/index.php::Test";d:0;}}}

@@ -1,0 +1,14 @@
+/Users/dima/algo/exercises/csharp/stack/obj/Debug/netcoreapp2.2/Stack.csprojAssemblyReference.cache
+/Users/dima/algo/exercises/csharp/stack/obj/Debug/netcoreapp2.2/Stack.csproj.CoreCompileInputs.cache
+/Users/dima/algo/exercises/csharp/stack/obj/Debug/netcoreapp2.2/Stack.AssemblyInfoInputs.cache
+/Users/dima/algo/exercises/csharp/stack/obj/Debug/netcoreapp2.2/Stack.AssemblyInfo.cs
+/Users/dima/algo/exercises/csharp/stack/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/dima/algo/exercises/csharp/stack/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/dima/algo/exercises/csharp/stack/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/dima/algo/exercises/csharp/stack/bin/Debug/netcoreapp2.2/Stack.deps.json
+/Users/dima/algo/exercises/csharp/stack/bin/Debug/netcoreapp2.2/Stack.runtimeconfig.json
+/Users/dima/algo/exercises/csharp/stack/bin/Debug/netcoreapp2.2/Stack.runtimeconfig.dev.json
+/Users/dima/algo/exercises/csharp/stack/bin/Debug/netcoreapp2.2/Stack.dll
+/Users/dima/algo/exercises/csharp/stack/bin/Debug/netcoreapp2.2/Stack.pdb
+/Users/dima/algo/exercises/csharp/stack/obj/Debug/netcoreapp2.2/Stack.dll
+/Users/dima/algo/exercises/csharp/stack/obj/Debug/netcoreapp2.2/Stack.pdb

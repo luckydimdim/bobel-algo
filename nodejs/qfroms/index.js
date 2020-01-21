@@ -21,21 +21,27 @@ class Queue {
     }
 
     add(value) {
-        primary.push(value);
-
-        this.secondary = new Stack();
-
-        while (primary.peek() !== undefined) {
-            this.secondary.push(primary.pop());
+        while (this.secondary.peek() !== undefined) {
+            this.primary.push(this.secondary.pop());
         }
+
+        this.primary.push(value);
     }
 
     remove() {
+        while (this.primary.peek() !== undefined) {
+            this.secondary.push(this.primary.pop());
+        }
 
+        return this.secondary.pop();
     }
 
     peek() {
+        while (this.primary.peek() !== undefined) {
+            this.secondary.push(this.primary.pop());
+        }
 
+        return this.secondary.peek();
     }
 }
 

@@ -1,0 +1,14 @@
+/Users/dima/projects/algo/exercises/csharp/qfroms/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/dima/projects/algo/exercises/csharp/qfroms/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/dima/projects/algo/exercises/csharp/qfroms/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/dima/projects/algo/exercises/csharp/qfroms/bin/Debug/netcoreapp2.2/Qfroms.deps.json
+/Users/dima/projects/algo/exercises/csharp/qfroms/bin/Debug/netcoreapp2.2/Qfroms.runtimeconfig.json
+/Users/dima/projects/algo/exercises/csharp/qfroms/bin/Debug/netcoreapp2.2/Qfroms.runtimeconfig.dev.json
+/Users/dima/projects/algo/exercises/csharp/qfroms/bin/Debug/netcoreapp2.2/Qfroms.dll
+/Users/dima/projects/algo/exercises/csharp/qfroms/bin/Debug/netcoreapp2.2/Qfroms.pdb
+/Users/dima/projects/algo/exercises/csharp/qfroms/obj/Debug/netcoreapp2.2/Qfroms.csprojAssemblyReference.cache
+/Users/dima/projects/algo/exercises/csharp/qfroms/obj/Debug/netcoreapp2.2/Qfroms.csproj.CoreCompileInputs.cache
+/Users/dima/projects/algo/exercises/csharp/qfroms/obj/Debug/netcoreapp2.2/Qfroms.AssemblyInfoInputs.cache
+/Users/dima/projects/algo/exercises/csharp/qfroms/obj/Debug/netcoreapp2.2/Qfroms.AssemblyInfo.cs
+/Users/dima/projects/algo/exercises/csharp/qfroms/obj/Debug/netcoreapp2.2/Qfroms.dll
+/Users/dima/projects/algo/exercises/csharp/qfroms/obj/Debug/netcoreapp2.2/Qfroms.pdb

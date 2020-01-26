@@ -1,0 +1,22 @@
+{
+    "name": "bobel/qfroms",
+    "authors": [
+        {
+            "name": "Dmitriy Litovchenko",
+            "email": "msk.roytop@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "nunomaduro/pest": "^0.1.0"
+    },
+    "scripts": {
+        "test": "vendor/bin/pest"
+    },
+    "autoload": {
+        "classmap": [
+            "./Stack.php",
+            "./Queue.php"
+        ]
+    }
+}

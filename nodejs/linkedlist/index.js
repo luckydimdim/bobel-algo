@@ -80,6 +80,92 @@ class LinkedList {
 
         previous.next = null;
     }
+
+    insertLast(data) {
+        const node = new Node(data);
+
+        if (!this.head) {
+            this.head = node;
+
+            return;
+        }
+
+        const last = this.getLast();
+        last.next = node;
+    }
+
+    getAt(index) {
+        if (!this.head) {
+            return null;
+        }
+
+        let counter = 0;
+        let node = this.head;
+
+        while (counter < index) {
+            counter++;
+            node = node.next;
+
+            if (!node) {
+                return null;
+            }
+        }
+
+        return node;
+    }
+
+    removeAt(index) {
+        if (!this.head) {
+            return;
+        }
+
+        let counter = 0;
+
+        if (index === 0) {
+            this.head = this.head.next;
+            return;
+        }
+
+        const previous = this.getAt(index - 1);
+        const next = this.getAt(index + 1);
+
+        previous.next = next;
+
+        /*while (counter <= index) {
+            counter++;
+
+            if (counter === index) {
+                let next = current ? current.next : null;
+
+                previous.next = next;
+
+                return;
+            }
+
+            previous = current;
+            current = current.next;
+
+            if (!previous || !current) {
+                return;
+            }
+        }*/
+    }
+
+    insertAt(data, index) {
+        if (index === 0) {
+            this.head = new Node(data, this.head);
+
+            return;
+        }
+
+        let previous = this.getAt(index - 1);
+
+        if (!previous) {
+            previous = this.getLast();
+        }
+
+        previous.next = new Node(data, previous.next);
+    }
 }
 
 module.exports = { Node, LinkedList };

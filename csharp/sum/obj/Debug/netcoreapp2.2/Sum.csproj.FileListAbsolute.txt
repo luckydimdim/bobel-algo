@@ -1,0 +1,14 @@
+/Users/dima/projects/algo/exercises/csharp/sum/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/dima/projects/algo/exercises/csharp/sum/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/dima/projects/algo/exercises/csharp/sum/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/dima/projects/algo/exercises/csharp/sum/bin/Debug/netcoreapp2.2/Sum.deps.json
+/Users/dima/projects/algo/exercises/csharp/sum/bin/Debug/netcoreapp2.2/Sum.runtimeconfig.json
+/Users/dima/projects/algo/exercises/csharp/sum/bin/Debug/netcoreapp2.2/Sum.runtimeconfig.dev.json
+/Users/dima/projects/algo/exercises/csharp/sum/bin/Debug/netcoreapp2.2/Sum.dll
+/Users/dima/projects/algo/exercises/csharp/sum/bin/Debug/netcoreapp2.2/Sum.pdb
+/Users/dima/projects/algo/exercises/csharp/sum/obj/Debug/netcoreapp2.2/Sum.csprojAssemblyReference.cache
+/Users/dima/projects/algo/exercises/csharp/sum/obj/Debug/netcoreapp2.2/Sum.csproj.CoreCompileInputs.cache
+/Users/dima/projects/algo/exercises/csharp/sum/obj/Debug/netcoreapp2.2/Sum.AssemblyInfoInputs.cache
+/Users/dima/projects/algo/exercises/csharp/sum/obj/Debug/netcoreapp2.2/Sum.AssemblyInfo.cs
+/Users/dima/projects/algo/exercises/csharp/sum/obj/Debug/netcoreapp2.2/Sum.dll
+/Users/dima/projects/algo/exercises/csharp/sum/obj/Debug/netcoreapp2.2/Sum.pdb

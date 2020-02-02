@@ -2,7 +2,7 @@
 
 require_once dirname(dirname(__FILE__)) .'/vendor/autoload.php';
 
-it('Must return 20', function () {
+it('exists', function () {
     assertTrue(function_exists('sum'));
 });
 

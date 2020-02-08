@@ -1,0 +1,14 @@
+/Users/dima/projects/algo/exercises/csharp/linked_list/obj/Debug/netcoreapp2.2/LinkedList.csprojAssemblyReference.cache
+/Users/dima/projects/algo/exercises/csharp/linked_list/obj/Debug/netcoreapp2.2/LinkedList.csproj.CoreCompileInputs.cache
+/Users/dima/projects/algo/exercises/csharp/linked_list/obj/Debug/netcoreapp2.2/LinkedList.AssemblyInfoInputs.cache
+/Users/dima/projects/algo/exercises/csharp/linked_list/obj/Debug/netcoreapp2.2/LinkedList.AssemblyInfo.cs
+/Users/dima/projects/algo/exercises/csharp/linked_list/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/dima/projects/algo/exercises/csharp/linked_list/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/dima/projects/algo/exercises/csharp/linked_list/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/dima/projects/algo/exercises/csharp/linked_list/bin/Debug/netcoreapp2.2/LinkedList.deps.json
+/Users/dima/projects/algo/exercises/csharp/linked_list/bin/Debug/netcoreapp2.2/LinkedList.runtimeconfig.json
+/Users/dima/projects/algo/exercises/csharp/linked_list/bin/Debug/netcoreapp2.2/LinkedList.runtimeconfig.dev.json
+/Users/dima/projects/algo/exercises/csharp/linked_list/bin/Debug/netcoreapp2.2/LinkedList.dll
+/Users/dima/projects/algo/exercises/csharp/linked_list/bin/Debug/netcoreapp2.2/LinkedList.pdb
+/Users/dima/projects/algo/exercises/csharp/linked_list/obj/Debug/netcoreapp2.2/LinkedList.dll
+/Users/dima/projects/algo/exercises/csharp/linked_list/obj/Debug/netcoreapp2.2/LinkedList.pdb

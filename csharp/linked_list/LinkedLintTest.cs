@@ -168,7 +168,7 @@ namespace LinkedList
                 list.RemoveAt(0);
                 Assert.True(true);
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 Assert.True(false);
             }
@@ -200,6 +200,48 @@ namespace LinkedList
             Assert.Equal("a", list.GetAt(1).Data);
             Assert.Equal("b", list.GetAt(2).Data);
             Assert.Equal("c", list.GetAt(3).Data);
+        }
+
+        [Fact]
+        public void ForEach()
+        {
+            var list = new LinkedList();
+
+            list.InsertLast("a");
+            list.InsertLast("b");
+            list.InsertLast("c");
+            list.InsertLast("d");
+
+            list.ForEach(node =>
+            {
+                node.Data = node.Data + "0";
+            });
+
+            Assert.Equal("a0", list.GetAt(0).Data);
+            Assert.Equal("b0", list.GetAt(1).Data);
+            Assert.Equal("c0", list.GetAt(2).Data);
+            Assert.Equal("d0", list.GetAt(3).Data);
+        }
+
+        [Fact]
+        public void Loop()
+        {
+            var list = new LinkedList();
+
+            list.InsertLast("a");
+            list.InsertLast("b");
+            list.InsertLast("c");
+            list.InsertLast("d");
+
+            foreach (Node node in list)
+            {
+                node.Data = node.Data + "0";
+            }
+
+            Assert.Equal("a0", list.GetAt(0).Data);
+            Assert.Equal("b0", list.GetAt(1).Data);
+            Assert.Equal("c0", list.GetAt(2).Data);
+            Assert.Equal("d0", list.GetAt(3).Data);
         }
     }
 }

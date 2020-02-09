@@ -1,8 +1,14 @@
+using System.Collections;
+
 namespace LinkedList
 {
-    public class LinkedList
+    public delegate void ProcessNode(Node node);
+
+    public class LinkedList : IEnumerable, IEnumerator
     {
         public Node Head { get; set; }
+
+        public int Position = -1;
 
         /// <summary>
         /// Creates a new Node from argument 'data'
@@ -207,6 +213,50 @@ namespace LinkedList
             Node current = this.GetAt(index);
 
             previous.Next = new Node(data, current);
+        }
+
+        /// <summary>
+        /// Calls the provided function with every node of the chain
+        /// </summary>
+        public void ForEach(ProcessNode function)
+        {
+            if (this.Head == null)
+            {
+                return;
+            }
+
+            Node current = this.Head;
+
+            while (current != null)
+            {
+                function(current);
+                current = current.Next;
+            }
+        }
+
+        public IEnumerator GetEnumerator()
+        {
+            return (IEnumerator) this;
+        }
+
+        public bool MoveNext()
+        {
+            this.Position++;
+
+            return (this.Position < this.Size());
+        }
+
+        public void Reset()
+        {
+            this.Position = -1;
+        }
+
+        public object Current
+        {
+            get
+            {
+                return this.GetAt(this.Position);
+            }
         }
     }
 }

@@ -1,12 +1,22 @@
 ﻿using System;
 
-namespace linked_list
+namespace LinkedList
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var list = new LinkedList();
+
+            list.InsertLast("a");
+            list.InsertLast("b");
+            list.InsertLast("c");
+            list.InsertLast("d");
+
+            foreach (Node node in list)
+            {
+                node.Data = node.Data + "0";
+            }
         }
     }
 }

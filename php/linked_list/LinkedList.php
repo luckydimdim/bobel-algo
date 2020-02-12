@@ -223,10 +223,49 @@ class LinkedList
         $node = $this->getAt($index - 1);
 
         if (!$node) {
-            return;
+            $node = $this->getLast();
         }
 
         $node->next = new Node($data, $node->next);
+    }
+
+    /**
+     * Calls the provided function with every node of the chain.
+     *
+     * @param $fn callable
+     */
+    public function forEach(callable $fn) : void
+    {
+        if (!$this->head) {
+            return;
+        }
+
+        $node = $this->head;
+
+        while ($node) {
+            $fn($node);
+            $node = $node->next;
+        }
+    }
+
+    /**
+     * Iterator
+     *
+     * @return ?Node
+     */
+    public function iterateNodes() : \Generator
+    {
+        if (!$this->head) {
+            return yield;
+        }
+
+        $node = $this->head;
+
+        while ($node) {
+            yield $node;
+
+            $node = $node->next;
+        }
     }
 }
 

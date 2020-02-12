@@ -219,3 +219,77 @@ test('InsertAt inserts a new node with data at the 0 index when the list has ele
     assertEquals('b', $list->getAt(2)->data);
     assertEquals('c', $list->getAt(3)->data);
 });
+
+test('InsertAt inserts a new node with data at the 0 index when the list has elements', function () {
+    $list = new \bobel\linked_list\LinkedList();
+
+    $list->insertLast('a');
+    $list->insertLast('b');
+    $list->insertLast('c');
+    $list->insertLast('d');
+    $list->insertAt('hi', 2);
+
+    assertEquals('a', $list->getAt(0)->data);
+    assertEquals('b', $list->getAt(1)->data);
+    assertEquals('hi', $list->getAt(2)->data);
+    assertEquals('c', $list->getAt(3)->data);
+    assertEquals('d', $list->getAt(4)->data);
+});
+
+test('InsertAt inserts a new node with data at a last index', function () {
+    $list = new \bobel\linked_list\LinkedList();
+
+    $list->insertLast('a');
+    $list->insertLast('b');
+    $list->insertAt('hi', 2);
+
+    assertEquals('a', $list->getAt(0)->data);
+    assertEquals('b', $list->getAt(1)->data);
+    assertEquals('hi', $list->getAt(2)->data);
+});
+
+test('InsertAt insert a new node when index is out of bounds', function () {
+    $list = new \bobel\linked_list\LinkedList();
+
+    $list->insertLast('a');
+    $list->insertLast('b');
+    $list->insertAt('hi', 30);
+
+    assertEquals('a', $list->getAt(0)->data);
+    assertEquals('b', $list->getAt(1)->data);
+    assertEquals('hi', $list->getAt(2)->data);
+});
+
+test('ForEach applies a transform to each node', function () {
+    $list = new \bobel\linked_list\LinkedList();
+
+    $list->insertLast(1);
+    $list->insertLast(2);
+    $list->insertLast(3);
+    $list->insertLast(4);
+
+    $list->forEach(fn($node) => $node->data += 10);
+
+    assertEquals(11, $list->getAt(0)->data);
+    assertEquals(12, $list->getAt(1)->data);
+    assertEquals(13, $list->getAt(2)->data);
+    assertEquals(14, $list->getAt(3)->data);
+});
+
+test('ForEach applies a transform to each node', function () {
+    $list = new \bobel\linked_list\LinkedList();
+
+    $list->insertLast(1);
+    $list->insertLast(2);
+    $list->insertLast(3);
+    $list->insertLast(4);
+
+    foreach ($list->iterateNodes() as $node) {
+        $node->data += 10;
+    }
+
+    assertEquals(11, $list->getAt(0)->data);
+    assertEquals(12, $list->getAt(1)->data);
+    assertEquals(13, $list->getAt(2)->data);
+    assertEquals(14, $list->getAt(3)->data);
+});

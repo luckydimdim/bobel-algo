@@ -254,5 +254,40 @@ class TestLinkedList(unittest.TestCase):
         self.assertEqual('b', list.getAt(1).data)
         self.assertEqual('hi', list.getAt(2).data)
 
+    def test_for_each_applies_a_transform_to_each_node(self):
+        list = LinkedList()
+
+        list.insertLast(1)
+        list.insertLast(2)
+        list.insertLast(3)
+        list.insertLast(4)
+
+        def plusTen(node):
+            node.data += 10
+
+
+        list.forEach(plusTen)
+
+        self.assertEqual(11, list.getAt(0).data)
+        self.assertEqual(12, list.getAt(1).data)
+        self.assertEqual(13, list.getAt(2).data)
+        self.assertEqual(14, list.getAt(3).data)
+
+    def test_iterate_nodes_works_with_the_linked_list(self):
+        list = LinkedList()
+
+        list.insertLast(1)
+        list.insertLast(2)
+        list.insertLast(3)
+        list.insertLast(4)
+
+        for node in list.iterateNodes():
+            node.data += 10
+
+        self.assertEqual(11, list.getAt(0).data)
+        self.assertEqual(12, list.getAt(1).data)
+        self.assertEqual(13, list.getAt(2).data)
+        self.assertEqual(14, list.getAt(3).data)
+
 if __name__ == '__main__':
     unittest.main()

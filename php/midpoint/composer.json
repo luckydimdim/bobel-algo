@@ -1,0 +1,24 @@
+{
+    "name": "bobel/midpoint",
+    "authors": [
+        {
+            "name": "Dmitriy Litovchenko",
+            "email": "msk.roytop@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "nunomaduro/pest": "^0.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "bobel\\linked_list\\": ["./"]
+        },
+        "files": [
+            "./index.php"
+        ]
+    },
+    "scripts": {
+        "test": "vendor/bin/pest"
+    }
+}

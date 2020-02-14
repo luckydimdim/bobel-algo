@@ -8,11 +8,11 @@ from LinkedList import LinkedList
 # the size of the list, and only iterate
 # through the list one time.
 # --- Example
-#   const l = new LinkedList();
+#   l = LinkedList()
 #   l.insertLast('a')
 #   l.insertLast('b')
 #   l.insertLast('c')
-#   midpoint(l); // returns { data: 'b' }
+#   midpoint(l) // returns { data: 'b' }
 
 def midpoint(list):
     if list.head is None:

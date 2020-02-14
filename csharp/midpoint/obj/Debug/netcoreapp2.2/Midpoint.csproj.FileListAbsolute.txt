@@ -1,0 +1,14 @@
+/Users/dima/projects/algo/exercises/csharp/midpoint/obj/Debug/netcoreapp2.2/Midpoint.csprojAssemblyReference.cache
+/Users/dima/projects/algo/exercises/csharp/midpoint/obj/Debug/netcoreapp2.2/Midpoint.csproj.CoreCompileInputs.cache
+/Users/dima/projects/algo/exercises/csharp/midpoint/obj/Debug/netcoreapp2.2/Midpoint.AssemblyInfoInputs.cache
+/Users/dima/projects/algo/exercises/csharp/midpoint/obj/Debug/netcoreapp2.2/Midpoint.AssemblyInfo.cs
+/Users/dima/projects/algo/exercises/csharp/midpoint/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/dima/projects/algo/exercises/csharp/midpoint/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/dima/projects/algo/exercises/csharp/midpoint/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/dima/projects/algo/exercises/csharp/midpoint/bin/Debug/netcoreapp2.2/Midpoint.deps.json
+/Users/dima/projects/algo/exercises/csharp/midpoint/bin/Debug/netcoreapp2.2/Midpoint.runtimeconfig.json
+/Users/dima/projects/algo/exercises/csharp/midpoint/bin/Debug/netcoreapp2.2/Midpoint.runtimeconfig.dev.json
+/Users/dima/projects/algo/exercises/csharp/midpoint/bin/Debug/netcoreapp2.2/Midpoint.dll
+/Users/dima/projects/algo/exercises/csharp/midpoint/bin/Debug/netcoreapp2.2/Midpoint.pdb
+/Users/dima/projects/algo/exercises/csharp/midpoint/obj/Debug/netcoreapp2.2/Midpoint.dll
+/Users/dima/projects/algo/exercises/csharp/midpoint/obj/Debug/netcoreapp2.2/Midpoint.pdb

@@ -15,12 +15,12 @@ use \bobel\linked_list\LinkedList;
  *
  * @example
  *   $l = new LinkedList();
- *   $l->insertLast('a')
- *   $l->insertLast('b')
- *   $l->insertLast('c')
+ *   $l->insertLast('a');
+ *   $l->insertLast('b');
+ *   $l->insertLast('c');
  *   midpoint($l); // returns Node { data: 'b' }
  *
- * @param $list LinkedList
+ * @param LinkedList $list
  * @return Node
  */
 function midpoint(LinkedList $list): Node {

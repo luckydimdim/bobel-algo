@@ -1,7 +1,7 @@
 ﻿using System;
 using LinkedList;
 
-namespace Midpoint
+namespace FromLast
 {
     public class Program
     {
@@ -23,24 +23,22 @@ namespace Midpoint
         /// l.InsertLast("a");
         /// l.InsertLast("b");
         /// l.InsertLast("c");
-        /// program.Midpoint(l); // returns Node { data: "b" }
+        /// l.InsertLast("d");
+        /// l.InsertLast("e");
+        /// program.FromLast(l, 3); // returns Node { data: "b" }
         /// </example>
         /// <param name="list">LinkedList to process</param>
-        /// <return type="Node">Middle node</return>
-        public Node Midpoint(LinkedList.LinkedList list)
+        /// <param name="n">Spaces from last node</param>
+        /// <return type="Node"></return>
+        public Node FromLast(LinkedList.LinkedList list, int n)
         {
-            if (list.Head == null)
-            {
-                return null;
-            }
-
             Node slow = list.GetFirst();
-            Node fast = list.GetFirst();
+            Node fast = list.GetAt(n);
 
-            while (fast.Next != null &&  fast.Next.Next != null)
+            while (fast.Next != null)
             {
                 slow = slow.Next;
-                fast = fast.Next.Next;
+                fast = fast.Next;
             }
 
             return slow;

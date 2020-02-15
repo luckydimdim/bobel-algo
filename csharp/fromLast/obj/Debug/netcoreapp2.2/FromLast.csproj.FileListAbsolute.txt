@@ -1,0 +1,14 @@
+/Users/dima/projects/algo/exercises/csharp/fromLast/obj/Debug/netcoreapp2.2/FromLast.csprojAssemblyReference.cache
+/Users/dima/projects/algo/exercises/csharp/fromLast/obj/Debug/netcoreapp2.2/FromLast.csproj.CoreCompileInputs.cache
+/Users/dima/projects/algo/exercises/csharp/fromLast/obj/Debug/netcoreapp2.2/FromLast.AssemblyInfoInputs.cache
+/Users/dima/projects/algo/exercises/csharp/fromLast/obj/Debug/netcoreapp2.2/FromLast.AssemblyInfo.cs
+/Users/dima/projects/algo/exercises/csharp/fromLast/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/dima/projects/algo/exercises/csharp/fromLast/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/dima/projects/algo/exercises/csharp/fromLast/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/dima/projects/algo/exercises/csharp/fromLast/bin/Debug/netcoreapp2.2/FromLast.deps.json
+/Users/dima/projects/algo/exercises/csharp/fromLast/bin/Debug/netcoreapp2.2/FromLast.runtimeconfig.json
+/Users/dima/projects/algo/exercises/csharp/fromLast/bin/Debug/netcoreapp2.2/FromLast.runtimeconfig.dev.json
+/Users/dima/projects/algo/exercises/csharp/fromLast/bin/Debug/netcoreapp2.2/FromLast.dll
+/Users/dima/projects/algo/exercises/csharp/fromLast/bin/Debug/netcoreapp2.2/FromLast.pdb
+/Users/dima/projects/algo/exercises/csharp/fromLast/obj/Debug/netcoreapp2.2/FromLast.dll
+/Users/dima/projects/algo/exercises/csharp/fromLast/obj/Debug/netcoreapp2.2/FromLast.pdb

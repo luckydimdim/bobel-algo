@@ -1,12 +1,12 @@
 def merge(left, right):
 	result = [0] * (len(left) + len(right))
 
-	leftIndex = rightIndex = resultIndex = 0;
+	leftIndex = rightIndex = resultIndex = 0
 
 	while leftIndex < len(left) and rightIndex < len(right):
 		if left[leftIndex] <= right[rightIndex]:
 			result[resultIndex] = left[leftIndex]
-			leftIndex += 1;
+			leftIndex += 1
 			resultIndex += 1
 		else:
 			result[resultIndex] = right[rightIndex]
@@ -16,19 +16,19 @@ def merge(left, right):
 	while leftIndex < len(left):
 		result[resultIndex] = left[leftIndex]
 		leftIndex += 1
-		resultIndex += 1			
+		resultIndex += 1
 
 	while rightIndex < len(right):
 		result[resultIndex] = right[rightIndex]
 		rightIndex += 1
-		resultIndex += 1 
+		resultIndex += 1
 
 	return result
 
 
 def merge_sort(array):
 	if len(array) <= 1:
-		return;
+		return
 
 	middle = len(array) // 2
 

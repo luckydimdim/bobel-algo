@@ -1,4 +1,5 @@
 import re
+from pprint import pprint
 
 # --- Description
 # Check to see if two provided strings are anagrams of eachother.
@@ -52,3 +53,7 @@ def anagrams(a, b):
 
 
 print(anagrams('a b!c', 'B c~a!'))
+normalizedA = sorted(re.sub("\W", "", 'a b!c'.lower()))
+b = ['a', 'b', 'c']
+
+pprint(normalizedA)

@@ -1,4 +1,5 @@
 import functools
+from pprint import pprint
 
 def reverse(str):
 	'''

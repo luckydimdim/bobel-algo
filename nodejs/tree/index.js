@@ -29,7 +29,7 @@ class Node {
 }
 
 class Tree {
-    constructor(data) {
+    constructor() {
         this.root = null;
     }
 
@@ -84,7 +84,6 @@ class Tree {
 
         while (arr.length) {
             let node = arr.shift();
-
             arr.unshift(...node.children);
 
             fn(node);

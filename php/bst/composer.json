@@ -1,0 +1,22 @@
+{
+    "name": "bobel/bst",
+    "authors": [
+        {
+            "name": "Dmitriy Litovchenko",
+            "email": "msk.roytop@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "nunomaduro/pest": "^0.1.0"
+    },
+    "scripts": {
+        "test": "vendor/bin/pest"
+    },
+    "autoload": {
+        "psr-4": {
+            "bobel\\bst\\": [
+                "./"
+            ]
+        }
+    }
+}

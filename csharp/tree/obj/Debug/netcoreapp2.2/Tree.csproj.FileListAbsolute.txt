@@ -1,0 +1,14 @@
+/Users/dima/projects/algo/exercises/csharp/tree/obj/Debug/netcoreapp2.2/Tree.csprojAssemblyReference.cache
+/Users/dima/projects/algo/exercises/csharp/tree/obj/Debug/netcoreapp2.2/Tree.csproj.CoreCompileInputs.cache
+/Users/dima/projects/algo/exercises/csharp/tree/obj/Debug/netcoreapp2.2/Tree.AssemblyInfoInputs.cache
+/Users/dima/projects/algo/exercises/csharp/tree/obj/Debug/netcoreapp2.2/Tree.AssemblyInfo.cs
+/Users/dima/projects/algo/exercises/csharp/tree/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/dima/projects/algo/exercises/csharp/tree/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/dima/projects/algo/exercises/csharp/tree/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/dima/projects/algo/exercises/csharp/tree/bin/Debug/netcoreapp2.2/Tree.deps.json
+/Users/dima/projects/algo/exercises/csharp/tree/bin/Debug/netcoreapp2.2/Tree.runtimeconfig.json
+/Users/dima/projects/algo/exercises/csharp/tree/bin/Debug/netcoreapp2.2/Tree.runtimeconfig.dev.json
+/Users/dima/projects/algo/exercises/csharp/tree/bin/Debug/netcoreapp2.2/Tree.dll
+/Users/dima/projects/algo/exercises/csharp/tree/bin/Debug/netcoreapp2.2/Tree.pdb
+/Users/dima/projects/algo/exercises/csharp/tree/obj/Debug/netcoreapp2.2/Tree.dll
+/Users/dima/projects/algo/exercises/csharp/tree/obj/Debug/netcoreapp2.2/Tree.pdb

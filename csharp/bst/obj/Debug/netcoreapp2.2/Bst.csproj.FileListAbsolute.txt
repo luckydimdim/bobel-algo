@@ -1,0 +1,14 @@
+/Users/dima/projects/algo/exercises/csharp/bst/obj/Debug/netcoreapp2.2/Bst.csprojAssemblyReference.cache
+/Users/dima/projects/algo/exercises/csharp/bst/obj/Debug/netcoreapp2.2/Bst.csproj.CoreCompileInputs.cache
+/Users/dima/projects/algo/exercises/csharp/bst/obj/Debug/netcoreapp2.2/Bst.AssemblyInfoInputs.cache
+/Users/dima/projects/algo/exercises/csharp/bst/obj/Debug/netcoreapp2.2/Bst.AssemblyInfo.cs
+/Users/dima/projects/algo/exercises/csharp/bst/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/dima/projects/algo/exercises/csharp/bst/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/dima/projects/algo/exercises/csharp/bst/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/dima/projects/algo/exercises/csharp/bst/bin/Debug/netcoreapp2.2/Bst.deps.json
+/Users/dima/projects/algo/exercises/csharp/bst/bin/Debug/netcoreapp2.2/Bst.runtimeconfig.json
+/Users/dima/projects/algo/exercises/csharp/bst/bin/Debug/netcoreapp2.2/Bst.runtimeconfig.dev.json
+/Users/dima/projects/algo/exercises/csharp/bst/bin/Debug/netcoreapp2.2/Bst.dll
+/Users/dima/projects/algo/exercises/csharp/bst/bin/Debug/netcoreapp2.2/Bst.pdb
+/Users/dima/projects/algo/exercises/csharp/bst/obj/Debug/netcoreapp2.2/Bst.dll
+/Users/dima/projects/algo/exercises/csharp/bst/obj/Debug/netcoreapp2.2/Bst.pdb

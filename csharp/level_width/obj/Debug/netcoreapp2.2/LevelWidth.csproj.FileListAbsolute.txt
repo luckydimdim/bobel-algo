@@ -1,0 +1,14 @@
+/Users/dima/projects/algo/exercises/csharp/level_width/obj/Debug/netcoreapp2.2/LevelWidth.csprojAssemblyReference.cache
+/Users/dima/projects/algo/exercises/csharp/level_width/obj/Debug/netcoreapp2.2/LevelWidth.csproj.CoreCompileInputs.cache
+/Users/dima/projects/algo/exercises/csharp/level_width/obj/Debug/netcoreapp2.2/LevelWidth.AssemblyInfoInputs.cache
+/Users/dima/projects/algo/exercises/csharp/level_width/obj/Debug/netcoreapp2.2/LevelWidth.AssemblyInfo.cs
+/Users/dima/projects/algo/exercises/csharp/level_width/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/dima/projects/algo/exercises/csharp/level_width/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/dima/projects/algo/exercises/csharp/level_width/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/dima/projects/algo/exercises/csharp/level_width/bin/Debug/netcoreapp2.2/LevelWidth.deps.json
+/Users/dima/projects/algo/exercises/csharp/level_width/bin/Debug/netcoreapp2.2/LevelWidth.runtimeconfig.json
+/Users/dima/projects/algo/exercises/csharp/level_width/bin/Debug/netcoreapp2.2/LevelWidth.runtimeconfig.dev.json
+/Users/dima/projects/algo/exercises/csharp/level_width/bin/Debug/netcoreapp2.2/LevelWidth.dll
+/Users/dima/projects/algo/exercises/csharp/level_width/bin/Debug/netcoreapp2.2/LevelWidth.pdb
+/Users/dima/projects/algo/exercises/csharp/level_width/obj/Debug/netcoreapp2.2/LevelWidth.dll
+/Users/dima/projects/algo/exercises/csharp/level_width/obj/Debug/netcoreapp2.2/LevelWidth.pdb

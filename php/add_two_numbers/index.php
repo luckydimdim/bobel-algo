@@ -100,6 +100,4 @@ function sum($left, $right) {
     return implode($result);
 }
 
-echo sum('998', '2');
-
 

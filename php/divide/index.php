@@ -47,14 +47,14 @@ function divide($dividend, $divisor) {
     $multiplier = 1;
     $multiplier2 = 1;
 
+    $multiplier = (($dividend < 0) ^ ($divisor < 0)) ? -1 : 1;
+
     if ($divisor < 0) {
         $divisor *= -1;
-        $multiplier = -1;
     }
 
     if ($dividend < 0) {
         $dividend *= -1;
-        $multiplier2 = -1;
     }
 
     if ($dividend < $divisor) {
@@ -76,7 +76,7 @@ function divide($dividend, $divisor) {
         $dividend -= $tempSum;
     }
 
-    $total *= $multiplier * $multiplier2;
+    $total *= $multiplier;
 
     if ($total > 2147483647) {
         return 2147483647;
